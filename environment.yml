@@ -10,3 +10,5 @@ dependencies:
   - matplotlib
   - numpy
   - ipywidgets=7
+  - vpython
+  
