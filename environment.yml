@@ -11,4 +11,4 @@ dependencies:
   - numpy
   - ipywidgets=7
   - vpython
-  
+  - scipy
