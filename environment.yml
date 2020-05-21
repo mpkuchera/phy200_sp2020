@@ -12,3 +12,4 @@ dependencies:
   - ipywidgets=7
   - vpython
   - scipy
+  - pandas
